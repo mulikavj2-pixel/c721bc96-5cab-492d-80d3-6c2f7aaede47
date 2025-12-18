@@ -49,7 +49,7 @@ export default function LandingPage() {
           description="Give a loving home to a dog in need. Browse our available dogs and start your adoption journey today."
           buttons={[
             { text: "See Available Dogs", href: "https://github.com/kudinDmitriyUp/6be8d34e-ad70-4106-a095-9645f1d6cb90/commit/e4569cb034bf02b5db01c4d8690e1551f071c51c" },
-            { text: "Learn About Adoption", href: "adopt" }
+            { text: "Learn About Adoption", href: "https://github.com/kudinDmitriyUp/6be8d34e-ad70-4106-a095-9645f1d6cb90/commit/e4569cb034bf02b5db01c4d8690e1551f071c51c" }
           ]}
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766057705155-7tz8c1r9.jpg"
           imageAlt="Happy dogs playing together"
